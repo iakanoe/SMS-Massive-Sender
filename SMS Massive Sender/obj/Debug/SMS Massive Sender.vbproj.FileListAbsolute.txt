@@ -1,0 +1,20 @@
+C:\Users\Ianick\documents\visual studio 2015\Projects\SMS Massive Sender\SMS Massive Sender\obj\Debug\SMS Massive Sender.vbprojResolveAssemblyReference.cache
+C:\Users\Ianick\documents\visual studio 2015\Projects\SMS Massive Sender\SMS Massive Sender\obj\Debug\SMS_Massive_Sender.Form1.resources
+C:\Users\Ianick\documents\visual studio 2015\Projects\SMS Massive Sender\SMS Massive Sender\obj\Debug\SMS_Massive_Sender.Resources.resources
+C:\Users\Ianick\documents\visual studio 2015\Projects\SMS Massive Sender\SMS Massive Sender\obj\Debug\SMS Massive Sender.vbproj.GenerateResource.Cache
+C:\Users\Ianick\documents\visual studio 2015\Projects\SMS Massive Sender\SMS Massive Sender\bin\Debug\ClosedXML.dll
+C:\Users\Ianick\documents\visual studio 2015\Projects\SMS Massive Sender\SMS Massive Sender\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Ianick\documents\visual studio 2015\Projects\SMS Massive Sender\SMS Massive Sender\obj\Debug\SMS_Massive_Sender.add.resources
+C:\Users\Ianick\documents\visual studio 2015\Projects\SMS Massive Sender\SMS Massive Sender\bin\Debug\SMS Massive Operator.exe.config
+C:\Users\Ianick\documents\visual studio 2015\Projects\SMS Massive Sender\SMS Massive Sender\bin\Debug\SMS Massive Operator.exe
+C:\Users\Ianick\documents\visual studio 2015\Projects\SMS Massive Sender\SMS Massive Sender\bin\Debug\SMS Massive Operator.pdb
+C:\Users\Ianick\documents\visual studio 2015\Projects\SMS Massive Sender\SMS Massive Sender\bin\Debug\SMS Massive Operator.xml
+C:\Users\Ianick\documents\visual studio 2015\Projects\SMS Massive Sender\SMS Massive Sender\bin\Debug\System.Net.Http.dll
+C:\Users\Ianick\documents\visual studio 2015\Projects\SMS Massive Sender\SMS Massive Sender\bin\Debug\System.Net.Http.xml
+C:\Users\Ianick\documents\visual studio 2015\Projects\SMS Massive Sender\SMS Massive Sender\bin\Debug\es\System.Net.Http.resources.dll
+C:\Users\Ianick\documents\visual studio 2015\Projects\SMS Massive Sender\SMS Massive Sender\obj\Debug\SMS Massive Operator.exe
+C:\Users\Ianick\documents\visual studio 2015\Projects\SMS Massive Sender\SMS Massive Sender\obj\Debug\SMS Massive Operator.xml
+C:\Users\Ianick\documents\visual studio 2015\Projects\SMS Massive Sender\SMS Massive Sender\obj\Debug\SMS Massive Operator.pdb
+C:\Users\Ianick\documents\visual studio 2015\Projects\SMS Massive Sender\SMS Massive Sender\bin\Debug\MySql.Data.dll
+C:\Users\Ianick\documents\visual studio 2015\Projects\SMS Massive Sender\SMS Massive Sender\obj\Debug\SMS_Massive_Sender.parsed.resources
+C:\Users\Ianick\documents\visual studio 2015\Projects\SMS Massive Sender\SMS Massive Sender\obj\Debug\SMS_Massive_Sender.cargandovb.resources
